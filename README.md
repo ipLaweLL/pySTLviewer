@@ -17,15 +17,18 @@ To run this project, ensure you have the following packages installed:
    ```bash
    git clone https://github.com/ipLaweLL/pySTLviewer.git
    cd pySTLviewer
+   ```
 2. **Set up a virtual environment**:
 
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
 3. *Install the required Python packages*:
 
-   ```bash
+   ```
    pip install pygame pyopengl numpy numpy-stl
+   ```
 
 ## STL File Placement
 
@@ -41,7 +44,9 @@ For better results and ease of use, ensure that the STL file you want to render 
 ## Usage
 
 Once all the dependencies are installed and the STL file is in place, you can run the project by executing the main script:
+```
    python STLviewer.py
+```
 
 ## Project Overview
 
