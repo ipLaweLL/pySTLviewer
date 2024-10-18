@@ -1,5 +1,5 @@
 # pySTLviewer
-A python based STL viewer. This project involves rendering and simulating 3D objects using Python.
+A python based STL viewer. Renders 3D objects using Python.
 
 ## Requirements
 
